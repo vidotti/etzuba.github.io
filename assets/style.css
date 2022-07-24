@@ -1,0 +1,15 @@
+body{
+    background-color: #83b655;
+}
+
+.navbar a {font-weight: 600;}
+
+.navbar-collapse {
+    flex-grow: initial !important;
+    margin-right: 40px !important;
+}
+
+.banner-principal {
+    margin: 0 auto;
+    text-align: center;
+}
