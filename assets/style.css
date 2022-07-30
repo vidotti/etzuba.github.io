@@ -10,6 +10,16 @@ body{
     justify-content: end;
 }
 
+.logo:hover {   
+    animation: tada; 
+    animation-duration: 2s;
+}
+
+/* .banner:hover {   
+    animation: rubberBand; 
+    animation-duration: 2s;
+} */
+
 
 .navbar a {font-weight: 600;}
 
